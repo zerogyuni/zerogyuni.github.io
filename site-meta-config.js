@@ -1,5 +1,5 @@
 module.exports = {
-    title: `LEE YEONG GYUN`,
+    title: `LEE YEONG GYUN Tech Blog`,
     subtitle: `Android Developer Blog`,
     description: `Android Developer Blog`,
     author: {
